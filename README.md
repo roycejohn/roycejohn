@@ -1,5 +1,5 @@
 👨🏻‍💻 </> cuevDev
----
+===============================================================================================================
 **`Web and App Developer / Electronics Engineer`**
 #### I'm Royce John, a passionate Junior Full-Stack Web Developer with a background in Electronics Engineering. Having recently completed a Full-Stack Web and App Development Bootcamp, I’ve transitioned from an Instrumentation Engineer in the oil and gas sector to web development, bringing a unique blend of problem-solving skills and technical expertise to the tech industry.
 ---
@@ -13,14 +13,14 @@
   * Databases: SQL (PostgreSQL), NoSQL (MongoDB)
   * Tools & Technologies: Git, GitHub, RESTful APIs, Agile methodologies, Tailwind CSS, Bootstrap
 * 👨‍🔧 What I'm Currently Working On:
-  *  [MyPortfolio](http://cuevdev.netlify.app) Continuously refining and updating my personal portfolio.
-  *  Future Projects: Planning and developing new projects to further apply and showcase my skills.
+  *  [MyPortfolio](http://cuevdev.netlify.app) Continuously refining and updating my portfolio.
+  *  Future Projects: Planning and developing new projects to apply further and showcase my skills.
 * ✍️ Technologies I’m Exploring:
   * Typescript, Vue.js, Next.js, Angular
   * Fundamentals and advanced concepts in Vue.js, Next.js, and Angular.
   * TypeScript, focusing on best practices and modern features.
 * 🤔 Why Fewer Projects?
-  *  I recently completed a Full-Stack Web and App Development Bootcamp, which provided me with a solid foundation in web development. Currently, I am focused on building my portfolio with quality projects to showcase my abilities and apply what I’ve learned.
+  *  I recently completed a Full-Stack Web and App Development Bootcamp, which provided me with a solid foundation in web development. I am focused on building my portfolio with quality projects to showcase my abilities and apply what I’ve learned.
 * 🤝  I'm open to collaborating on Projects
 
 #
@@ -38,43 +38,14 @@
 ### 📊 Stats
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/roycejohn"><img src="https://github-readme-stats.vercel.app/api?username=roycejohn&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="roycejohn's GitHub stats" /></a>
+
 #
 <details>
- <summary><h3>sfsadasdsadsa</h3></summary>
- sdadasdsadasdsadasdsadsdfdsfdsafsdafsdafdsafasdffsdafasdsdfsafasdfasdfsadfasdfasdfasdfasdfasdfsdfsdfsdafsafasfasdfasfsadf
+ <summary><h3>🔄 From Engineering to Coding: My Journey</h3></summary>
+My journey began in the oil and gas sector as an Instrumentation Engineer, where I honed my analytical and technical skills. With a passion for problem-solving and technology, I transitioned into web development. After completing a Full-Stack Web and App Development   Bootcamp, I'm now fully immersed in creating web applications, continuously learning, and exploring new technologies. This transition has allowed me to blend my engineering expertise with my newfound love for coding, making every project an exciting challenge and opportunity for growth.
 </details>
 
 <!--
-
-## Hi there 👋
-
-I'm Royce John, a passionate Junior Full-Stack Web Developer with a background in Electronics Engineering. I transitioned from being an Instrumentation Engineer in the oil and gas sector to web development, bringing problem-solving skills and technical expertise to the tech industry. Welcome to my GitHub profile, where I share my journey, projects, and passion for continuous learning.
-
-🚀 Technologies & Stacks I'm Familiar With:
-  -Frontend: HTML5, CSS3, JavaScript (ES6+), React
-  -Backend: Node.js, Express
-  -Databases: SQL (PostgreSQL), NoSQL (MongoDB)
-  -Tools & Technologies: Git, GitHub, RESTful APIs, Agile methodologies, Tailwind CSS, Bootstrap
-
-🔭 I’m currently working on:
-  -Exploring Vue.js, Angular, and Next.js for potential projects.
-  -Planning to start a web application project, leveraging these frameworks for a comprehensive learning experience.
-
-🌱 I’m currently learning:
-  -Fundamentals and advanced concepts in Vue.js, Angular, and Next.js.
-  -JavaScript and TypeScript, focusing on best practices and modern features.
-
-👯 I’m looking to collaborate on:
-  -Any projects or initiatives that use Vue.js, Angular, or Next.js.
-  -Open-source contributions, especially in front-end development.
-  * ⚡  I'm Deadpool... but with code instead of katanas!
-
-🧳 Hobbies & Interests:
-
--I'm an avid traveler and love exploring new places and cultures. My journeys have taken me to various countries, and I'm always eager to discover more.
--A tech enthusiast at heart, I enjoy experimenting with the latest gadgets and keeping up with trends in consumer electronics.
-**roycejohn/roycejohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
