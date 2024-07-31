@@ -2,7 +2,7 @@
 ====================================================================================================================================
 #### I'm Royce John, a passionate Junior Full-Stack Web Developer with a background in Electronics Engineering. Having recently completed a Full-Stack Web and App Development Bootcamp, I’ve transitioned from an Instrumentation Engineer in the oil and gas sector to web development, bringing a unique blend of problem-solving skills and technical expertise to the tech industry.
 #### Welcome to my GitHub profile, where I share my journey, projects, and passion for continuous learning.
-
+#
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [MyPortfolio](http://cuevdev.netlify.app)
 * ✉️  You can contact me at [cuevasroycejohn@gmail.com](mailto:cuevasroycejohn@gmail.com)
@@ -21,8 +21,7 @@
 * 🤔 Why Fewer Projects?
   *  I recently completed a Full-Stack Web and App Development Bootcamp, which provided me with a solid foundation in web development. Currently, I am focused on building my portfolio with quality projects to showcase my abilities and apply what I’ve learned.
 * 🤝  I'm open to collaborating on Projects
-
-
+#
 ### Skills
 
 
