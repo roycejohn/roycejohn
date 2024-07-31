@@ -6,15 +6,15 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [MyPortfolio](http://cuevdev.netlify.app)
 * ✉️  You can contact me at [cuevasroycejohn@gmail.com](mailto:cuevasroycejohn@gmail.com)
-* 🚀 Technologies & Stacks I'm Familiar With:
+* 🚀 Technologies & Stacks Proficient In:
   * Frontend: HTML5, CSS3, JavaScript (ES6+), React
   * Backend: Node.js, Express
   * Databases: SQL (PostgreSQL), NoSQL (MongoDB)
   * Tools & Technologies: Git, GitHub, RESTful APIs, Agile methodologies, Tailwind CSS, Bootstrap
-* 🔭 What I'm Currently Working On
+* 🔭 What I'm Currently Working On:
   *  [MyPortfolio](http://cuevdev.netlify.app) Continuously refining and updating my personal portfolio.
   *  Future Projects: Planning and developing new projects to further apply and showcase my skills.
-* 🧠 What I'm Learning
+* 🧠 Technologies I’m Exploring:
   * Typescript, Vue.js, Next.js, Angular
   * Fundamentals and advanced concepts in Vue.js, Next.js, and Angular.
   * TypeScript, focusing on best practices and modern features.
