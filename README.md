@@ -1,6 +1,6 @@
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
-#### I'm Royce John, a passionate Junior Full-Stack Web Developer with a background in Electronics Engineering. I transitioned from an Instrumentation Engineer in the oil and gas sector to web development, bringing problem-solving skills and technical expertise to the tech industry.
+#### I'm Royce John, a passionate Junior Full-Stack Web Developer with a background in Electronics Engineering. Having recently completed a Full-Stack Web and App Development Bootcamp, I’ve transitioned from an Instrumentation Engineer in the oil and gas sector to web development, bringing a unique blend of problem-solving skills and technical expertise to the tech industry.
 #### Welcome to my GitHub profile, where I share my journey, projects, and passion for continuous learning.
 
 * 🌍  I'm based in Germany
@@ -11,11 +11,16 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
   * Backend: Node.js, Express
   * Databases: SQL (PostgreSQL), NoSQL (MongoDB)
   * Tools & Technologies: Git, GitHub, RESTful APIs, Agile methodologies, Tailwind CSS, Bootstrap
-* 🔭  I'm currently working on [MyPortfolio](http://cuevdev.netlify.app)
-* 🧠  I'm learning Typescript, Vue.js, Next.js, Angular
+* 🔭 What I'm Currently Working On
+ *  [MyPortfolio](http://cuevdev.netlify.app) Continuously refining and updating my personal portfolio.
+ *  Future Projects: Planning and developing new projects to further apply and showcase my skills.
+* 🧠 What I'm Learning
+ * Typescript, Vue.js, Next.js, Angular
   * Planning to start a web application project, leveraging these frameworks for a comprehensive learning experience.
   * Fundamentals and advanced concepts in Vue.js, Next.js, and Angular.
   * JavaScript and TypeScript, focusing on best practices and modern features.
+* 🤔 Why Fewer Projects?
+ *  I recently completed a Full-Stack Web and App Development Bootcamp, which provided me with a solid foundation in web development. Currently, I am focused on building my portfolio with quality projects to showcase my abilities and apply what I’ve learned.
 * 🤝  I'm open to collaborating on Projects
 
 
