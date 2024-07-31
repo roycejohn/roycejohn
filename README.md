@@ -1,9 +1,8 @@
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
-## I'm Royce John, a passionate Junior Full-Stack Web Developer with a background in Electronics Engineering.
-## I transitioned from an Instrumentation Engineer in the oil and gas sector to web development,
+# I'm Royce John, a passionate Junior Full-Stack Web Developer with a background in Electronics Engineering. I transitioned from an Instrumentation Engineer in the oil and gas sector to web development,
 bringing problem-solving skills and technical expertise to the tech industry.
-## Welcome to my GitHub profile, where I share my journey, projects, and passion for continuous learning.
+# Welcome to my GitHub profile, where I share my journey, projects, and passion for continuous learning.
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [MyPortfolio](http://cuevdev.netlify.app)
