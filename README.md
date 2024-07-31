@@ -1,11 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Royce Cuevas
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
+I'm Royce John, a passionate Junior Full-Stack Web Developer with a background in Electronics Engineering.
+I transitioned from being an Instrumentation Engineer in the oil and gas sector to web development,
+bringing problem-solving skills and technical expertise to the tech industry.
+Welcome to my GitHub profile, where I share my journey, projects, and passion for continuous learning.
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [MyPortfolio](http://cuevdev.netlify.app)
 * ✉️  You can contact me at [cuevasroycejohn@gmail.com](mailto:cuevasroycejohn@gmail.com)
-* 🚀  I'm currently working on [MyPortfolio](http://cuevdev.netlify.app)
+* 🚀 Technologies & Stacks I'm Familiar With:
+  * Frontend: HTML5, CSS3, JavaScript (ES6+), React
+  * Backend: Node.js, Express
+  * Databases: SQL (PostgreSQL), NoSQL (MongoDB)
+  * Tools & Technologies: Git, GitHub, RESTful APIs, Agile methodologies, Tailwind CSS, Bootstrap
+* 🔭  I'm currently working on [MyPortfolio](http://cuevdev.netlify.app)
 * 🧠  I'm learning Typescript, Vue.js, Next.js, Angular
+  * Planning to start a web application project, leveraging these frameworks for a comprehensive learning experience.
+  * Fundamentals and advanced concepts in Vue.js, Next.js, and Angular.
+  * JavaScript and TypeScript, focusing on best practices and modern features.
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm Deadpool... but with code instead of katanas!
 
