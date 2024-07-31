@@ -1,12 +1,12 @@
 👨🏻‍💻 </> cuevDev
 ===============================================================================================================
 **`Frontend / Backend Developer`**
-#### I'm Royce John, a passionate Junior Full-Stack Web Developer with a background in Electronics Engineering. Having recently completed a Full-Stack Web and App Development Bootcamp, I’ve transitioned from an Instrumentation Engineer in the oil and gas sector to web development, bringing a unique blend of problem-solving skills and technical expertise to the tech industry.
+#### I'm Royce John, a Junior Full-Stack Web Developer with a background in Instrumentation Engineering. After completing a Full-Stack Web and App Development Bootcamp, I transitioned from the oil and gas sector to web development, leveraging my problem-solving skills and technical expertise in the tech industry.
 ---
 #### Welcome to my GitHub profile, where I share my journey, projects, and passion for continuous learning.
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [MyPortfolio](http://cuevdev.netlify.app)
-* ✉️  You can contact me at [cuevasroycejohn@gmail.com](mailto:cuevasroycejohn@gmail.com)
+* 🖥️  Check out my portfolio: [MyPortfolio](http://cuevdev.netlify.app)
+* ✉️  Reach me at [cuevasroycejohn@gmail.com](mailto:cuevasroycejohn@gmail.com)
 * 🚀 Technologies & Stacks Proficient In:
   * Frontend: HTML5, CSS3, JavaScript (ES6+), React
   * Backend: Node.js, Express
@@ -14,13 +14,12 @@
   * Tools & Technologies: Git, GitHub, RESTful APIs, Agile methodologies, Tailwind CSS, Bootstrap
 * 👨‍🔧 What I'm Currently Working On:
   *  [MyPortfolio](http://cuevdev.netlify.app) Continuously refining and updating my portfolio.
-  *  Future Projects: Planning and developing new projects to apply further and showcase my skills.
+  *  Future Projects: Planning and developing new projects to apply and showcase my skills.
 * ✍️ Technologies I’m Exploring:
   * Typescript, Vue.js, Next.js, Angular
-  * Fundamentals and advanced concepts in Vue.js, Next.js, and Angular.
-  * TypeScript, focusing on best practices and modern features.
+  * Fundamentals, advanced concepts, and focusing on best practices and modern features.
 * 🤔 Why Fewer Projects?
-  *  I recently completed a Full-Stack Web and App Development Bootcamp, which provided me with a solid foundation in web development. I am focused on building my portfolio with quality projects to showcase my abilities and apply what I’ve learned.
+  * Recently completed a Full-Stack Web and App Development Bootcamp that provided a solid foundation in web development. I am now building my portfolio with quality projects to showcase my skills.
 * 🤝  I'm open to collaborating on Projects
 
 #
