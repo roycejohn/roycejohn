@@ -1,6 +1,6 @@
 👨🏻‍💻 </> cuevDev
 ===============================================================================================================
-**`Web and App Developer / Electronics Engineer`**
+**`Frontend / Backend Developer`**
 #### I'm Royce John, a passionate Junior Full-Stack Web Developer with a background in Electronics Engineering. Having recently completed a Full-Stack Web and App Development Bootcamp, I’ve transitioned from an Instrumentation Engineer in the oil and gas sector to web development, bringing a unique blend of problem-solving skills and technical expertise to the tech industry.
 ---
 #### Welcome to my GitHub profile, where I share my journey, projects, and passion for continuous learning.
@@ -36,10 +36,9 @@
 
 #
 ### 📊 Stats
-<b>My GitHub Stats</b>
 <a href="http://www.github.com/roycejohn"><img src="https://github-readme-stats.vercel.app/api?username=roycejohn&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="roycejohn's GitHub stats" /></a>
 
-
+#
 <details>
    <summary><h3>🔄 From Engineering to Coding: My Journey</h3></summary>
    My journey began in the oil and gas sector as an Instrumentation Engineer, where I honed my analytical and technical skills. With a passion for problem-solving and technology, I transitioned into web development. After completing a Full-Stack Web and App Development     Bootcamp, I'm now fully immersed in creating web applications, continuously learning, and exploring new technologies. This transition has allowed me to blend my engineering expertise with my newfound love for coding, making every project an exciting challenge and        opportunity for growth.
