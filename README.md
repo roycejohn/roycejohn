@@ -2,7 +2,7 @@
 ====================================================================================================================================
 #### I'm Royce John, a passionate Junior Full-Stack Web Developer with a background in Electronics Engineering. Having recently completed a Full-Stack Web and App Development Bootcamp, I’ve transitioned from an Instrumentation Engineer in the oil and gas sector to web development, bringing a unique blend of problem-solving skills and technical expertise to the tech industry.
 #### Welcome to my GitHub profile, where I share my journey, projects, and passion for continuous learning.
-#
+##
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [MyPortfolio](http://cuevdev.netlify.app)
 * ✉️  You can contact me at [cuevasroycejohn@gmail.com](mailto:cuevasroycejohn@gmail.com)
@@ -39,6 +39,11 @@
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/roycejohn"><img src="https://github-readme-stats.vercel.app/api?username=roycejohn&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="roycejohn's GitHub stats" /></a>
+#
+<details>
+ <summary><h3>sfsadasdsadsa</h3></summary>
+ sdadasdsadasdsadasdsadsdfdsfdsafsdafsdafdsafasdffsdafasdsdfsafasdfasdfsadfasdfasdfasdfasdfasdfsdfsdfsdafsafasfasdfasfsadf
+</details>
 
 <!--
 
