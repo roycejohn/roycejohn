@@ -17,7 +17,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
   * Fundamentals and advanced concepts in Vue.js, Next.js, and Angular.
   * JavaScript and TypeScript, focusing on best practices and modern features.
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I'm Deadpool... but with code instead of katanas!
+
 
 ### Skills
 
@@ -62,6 +62,7 @@ I'm Royce John, a passionate Junior Full-Stack Web Developer with a background i
 👯 I’m looking to collaborate on:
   -Any projects or initiatives that use Vue.js, Angular, or Next.js.
   -Open-source contributions, especially in front-end development.
+  * ⚡  I'm Deadpool... but with code instead of katanas!
 
 🧳 Hobbies & Interests:
 
