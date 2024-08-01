@@ -7,18 +7,18 @@
 * 🌍  I'm based in Germany
 * 🖥️  Check out my portfolio: [MyPortfolio](http://cuevdev.netlify.app)
 * ✉️  Reach me at [cuevasroycejohn@gmail.com](mailto:cuevasroycejohn@gmail.com)
-* 🚀 Technologies & Stacks Proficient In:
+* 🚀 **Technologies & Stacks Proficient In:**
   * **Frontend:** HTML5, CSS3, JavaScript (ES6+), React
   * **Backend:** Node.js, Express
   * **Databases:** SQL (PostgreSQL), NoSQL (MongoDB)
   * **Tools & Technologies:** Git, GitHub, RESTful APIs, Agile methodologies, Tailwind CSS, Bootstrap
-* 👨‍🔧 What I'm Currently Working On:
+* 👨‍🔧 **What I'm Currently Working On:**
   *  [MyPortfolio](http://cuevdev.netlify.app) Continuously refining and updating my portfolio.
   *  Future Projects: Planning and developing new projects to apply and showcase my skills.
-* ✍️ Technologies I’m Exploring:
+* 📚 **Technologies I’m Exploring:**
   * Typescript, Vue.js, Next.js, Angular
   * Fundamentals, advanced concepts, and focusing on best practices and modern features.
-* 🤔 Why Fewer Projects?
+* 🤔 **Why Fewer Projects?**
   * Recently completed a Full-Stack Web and App Development Bootcamp that provided a solid foundation in web development. I am now building my portfolio with quality projects to showcase my skills.
 * 🤝  I'm open to collaborating on Projects
 
