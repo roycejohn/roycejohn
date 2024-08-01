@@ -1,4 +1,4 @@
-👨🏻‍💻 </> cuevDev
+👨🏻‍💻  cuevDev </>
 ===============================================================================================================
 **`Frontend / Backend Developer`**
 #### I'm Royce John, a Junior Full-Stack Web Developer with a background in Instrumentation Engineering. After completing a Full-Stack Web and App Development Bootcamp, I transitioned from the oil and gas sector to web development, leveraging my problem-solving skills and technical expertise in the tech industry.
@@ -39,7 +39,7 @@
 
 #
 <details>
-   <summary><h3>🔄 From Engineering to Coding: My Journey</h3></summary>
+   <summary><h3>👷🏻‍♂️ From Engineering to 👨🏻‍💻 Coding: My Journey</h3></summary>
    My journey began in the oil and gas sector as an Instrumentation Engineer, where I honed my analytical and technical skills. With a passion for problem-solving and technology, I transitioned into web development. After completing a Full-Stack Web and App Development     Bootcamp, I'm now fully immersed in creating web applications, continuously learning, and exploring new technologies. This transition has allowed me to blend my engineering expertise with my newfound love for coding, making every project an exciting challenge and        opportunity for growth.
 </details>
 
