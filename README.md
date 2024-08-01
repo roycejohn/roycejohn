@@ -8,10 +8,10 @@
 * 🖥️  Check out my portfolio: [MyPortfolio](http://cuevdev.netlify.app)
 * ✉️  Reach me at [cuevasroycejohn@gmail.com](mailto:cuevasroycejohn@gmail.com)
 * 🚀 Technologies & Stacks Proficient In:
-  * Frontend: HTML5, CSS3, JavaScript (ES6+), React
-  * Backend: Node.js, Express
-  * Databases: SQL (PostgreSQL), NoSQL (MongoDB)
-  * Tools & Technologies: Git, GitHub, RESTful APIs, Agile methodologies, Tailwind CSS, Bootstrap
+  * **Frontend:** HTML5, CSS3, JavaScript (ES6+), React
+  * **Backend:** Node.js, Express
+  * **Databases:** SQL (PostgreSQL), NoSQL (MongoDB)
+  * **Tools & Technologies:** Git, GitHub, RESTful APIs, Agile methodologies, Tailwind CSS, Bootstrap
 * 👨‍🔧 What I'm Currently Working On:
   *  [MyPortfolio](http://cuevdev.netlify.app) Continuously refining and updating my portfolio.
   *  Future Projects: Planning and developing new projects to apply and showcase my skills.
