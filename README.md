@@ -16,7 +16,7 @@
   *  [MyPortfolio](http://cuevdev.netlify.app) Continuously refining and updating my portfolio.
   *  Future Projects: Planning and developing new projects to apply and showcase my skills.
 * 📚 **Technologies I’m Exploring:**
-  * Typescript, Vue.js, Next.js, Angular
+  * Typescript, Next.js, Vue.js, Nuxt.js, Angular
   * Fundamentals, advanced concepts, and focusing on best practices and modern features.
 * 🤔 **Why Fewer Projects?**
   * Recently completed a Full-Stack Web and App Development Bootcamp that provided a solid foundation in web development. I am now building my portfolio with quality projects to showcase my skills.
