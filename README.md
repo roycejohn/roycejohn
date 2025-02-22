@@ -1,7 +1,7 @@
 👨🏻‍💻  cuevDev </>
 ===============================================================================================================
 **`Frontend / Backend Developer`**
-#### I'm Royce John, a Junior Full-Stack Web Developer with a background in Instrumentation Engineering. After completing a Full-Stack Web and App Development Bootcamp, I transitioned from the oil and gas sector to web development, leveraging my problem-solving skills and technical expertise in the tech industry.
+#### I'm Royce John, a Junior Full-Stack Web Developer with a background in Instrumentation Engineering. After completing a Full-Stack Web and App Development Bootcamp.
 ---
 #### Welcome to my GitHub profile, where I share my journey, projects, and passion for continuous learning.
 * 🌍  I'm based in Germany
@@ -19,7 +19,7 @@
   * Typescript, Next.js, Vue.js, Nuxt.js, Angular
   * Fundamentals, advanced concepts, and focusing on best practices and modern features.
 * 🤔 **Why Fewer Projects?**
-  * Recently completed a Full-Stack Web and App Development Bootcamp that provided a solid foundation in web development. I am now building my portfolio with quality projects to showcase my skills.
+  * After completing a Full-Stack Web and App Development Bootcamp last year, I gained a solid foundation in web development. Now, with my new role as an Elektroingenieur, I’m balancing work and building my portfolio with quality projects to showcase my skills.
 * 🤝  I'm open to collaborating on Projects
 
 #
