@@ -1,7 +1,7 @@
 👨🏻‍💻  cuevDev </>
 ===============================================================================================================
 **`Frontend / Backend Developer`**
-#### I'm Royce John, a Junior Full-Stack Web Developer with a background in Instrumentation Engineering. After completing a Full-Stack Web and App Development Bootcamp.
+#### I'm Royce John, a Junior Full-Stack Web Developer with a background in Instrumentation and Electrical Engineering.
 ---
 #### Welcome to my GitHub profile, where I share my journey, projects, and passion for continuous learning.
 * 🌍  I'm based in Germany
